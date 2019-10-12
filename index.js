@@ -349,8 +349,8 @@ class RNParallax extends Component {
         {this.renderScrollView()}
         {this.renderNavbarBackground()}
         {this.renderHeaderBackground()}
-        {this.renderHeaderTitle()}
         {this.renderHeaderForeground()}
+        {this.renderHeaderTitle()}
       </View>
     );
   }
